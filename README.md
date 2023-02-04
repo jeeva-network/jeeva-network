@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeeva-233&label=Profile%20views&color=0e75b6&style=flat" alt="jeeva-233" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeeva-233" alt="jeeva-233" /></a> </p>
-<img align="right" alt="Coding" title="Web Development" width="400" src="https://github.com/jeeva-233/jeeva-233/blob/main/web_developing.gif">
+<img align="right" alt="Coding" title="Web Development" width="400" src="https://github.com/jeeva-233/jeeva-233/blob/main/web_developing.gif"><br>
 
 - 🔭 I’m currently working on **Result Management Project**
 
