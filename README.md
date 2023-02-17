@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React,Django**
 
-- 💬 Ask me about **Python,Html,Css**
+- 💬 Ask me about **Python,Html,Css,Js**
 
 - 📫 How to reach me **contect.jeeva@gmail.com**
 
