@@ -1,4 +1,4 @@
-![My Banner](https://github.com/jeeva-233/jeeva-233/blob/main/Banner.png)
+![My Banner](https://github.com/jeeva-233/jeeva-233/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jeeva S</h1>
 <h3 align="center">A passionate Python and Web developer from India</h3>
 
