@@ -1,4 +1,3 @@
-![My Banner]
 <h1 align="center">Hi 👋, I'm Jeeva S</h1>
 <h3 align="center">A passionate Python and Web developer from India</h3>
 
