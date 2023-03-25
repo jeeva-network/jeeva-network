@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 💬 Ask me about **Python, Sqlite**
+- 💬 Ask me about **Python, Sqlite, Html, Css**
 
 - 📫 How to reach me **contect.jeeva@gmail.com**
 
