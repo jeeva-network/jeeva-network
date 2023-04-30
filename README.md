@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
+- 👯‍♀️ I'm looking to collaborate with the **IT Sector**
+
 - 💬 Ask me about **Python, Sqlite, Html, Css**
 
 - 📫 How to reach me **contect.jeeva@gmail.com**
