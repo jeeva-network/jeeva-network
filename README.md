@@ -29,6 +29,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva-network&show_icons=true&locale=en&layout=compact" alt="jeeva-network" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jeeva-network&show_icons=true&locale=en" alt="jeeva-network" height="200" width="450" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jeeva-network&show_icons=true&locale=en" alt="jeeva-network" height="200" width="430" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jeeva-network&" alt="jeeva-network" height="200" width="470" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jeeva-network&" alt="jeeva-network" height="200" width="430" /></p>
