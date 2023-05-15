@@ -6,11 +6,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeeva-network" alt="jeeva-network" /></a> </p><hr>
 <img align="right" alt="Coding Gif" title="Python Programming" width="500" height="300" src="https://github.com/jeeva-network/jeeva-network/blob/main/Python-programming-examples.gif">
 
-- 🔭 I’m currently working on **Mark Automation System**
+- 🔭 I have done a project **Mark Automation System**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **Full Stack MERN Development**
 
-- 👯‍♀️ I'm looking to collaborate with the **IT Sector**
+- 👯‍♀️ I'm seeking a job in the **IT Sector**
 
 - 💬 Ask me about **Python, Sqlite, Html, Css**
 
