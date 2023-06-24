@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, Sqlite, Html, Css**
 
-- 📫 How to reach me **contect.jeeva@gmail.com**
+- 📫 How to reach me <a href="contect.jeeva@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
 
 - ⚡ Fun fact **I am Funny and interesting**
 
