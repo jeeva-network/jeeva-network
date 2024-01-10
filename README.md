@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeeva</h1>
-<h3 align="center">A passionate Python developer from India</h3><hr>
+<h3 align="center">A passionate Python and Web developer from India</h3><hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeeva-network&label=Profile%20views&color=0e75b6&style=flat" alt="jeeva-network" /> </p>
 
