@@ -3,7 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeeva-network&label=Profile%20views&color=0e75b6&style=flat" alt="jeeva-network" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeeva-network" alt="profile-trophy" /></a> </p><hr>
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"></a> -->
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jeeva-network" alt="profile-trophy" /> </p><hr>
 <img align="right" alt="Coding Gif" title="Python Programming" width="500" height="300" src="https://github.com/jeeva-network/jeeva-network/blob/main/Python-programming-examples.gif">
 
 - 🔭 I have done a project **Mark Automation System**
@@ -29,6 +30,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva-network&show_icons=true&locale=en&layout=compact" alt="top-languages" /> </p><hr>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeeva-network&show_icons=true&locale=en" alt="profile-stats" /> </p><hr>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeeva-network" alt="jeeva-network" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeeva-network&show_icons=true&locale=en&" alt="profile-stats" /> </p>
