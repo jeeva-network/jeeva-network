@@ -15,9 +15,7 @@
 
 - 💬 Ask me about **Python, Sqlite, Html, Css**
 
-- 📫 How to reach me **contect.jeeva@gmail.com**
-
-- ⚡ Fun fact **I am Funny and interesting**
+- 📫 You can reach me on <a href="mailto:contect.jeeva@gmail.com" > <b> Mail </b> </a>
 
 
 <h3 align="left">Connect with me:</h3>
