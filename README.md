@@ -62,10 +62,8 @@ team success.</p>
 <a href="https://github.com/jeeva-network/Mark-Automation-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeeva-network&repo=Mark-Automation-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeeva-network&repo=Mark-Automation-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" style="max-width: 100%;"></a>
 </p><br><br>
 
-
 <h2>📊 Stats and Activity</h2>
 
 <p align="left" dir="auto">
-<a><img src="https://github-readme-stats.vercel.app/api?username=jeeva-network&show_icons=true&locale=en&" alt="profile-stats" height="180px" /></a>
-<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=jeeva-network&" alt="streak" width="450px" /></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=jeeva-network&show_icons=true&locale=en" alt="stats"/></a>
 </p>
