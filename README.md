@@ -11,11 +11,11 @@ team success.</p>
 
 <p align="center"> <a href="https://www.linkedin.com/in/jeeva-network" rel="nofollow"><img src="https://camo.githubusercontent.com/f8766983cc52e0daa6a3809fbe12f597e60479f3cd1c89e2002eb55d9cb8c9d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a></p>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jeeva-network&label=Profile%20views&color=0e75b6&style=flat" alt="jeeva-network" /> </p>
+<p align="center"> <a href="#"> <img src="https://komarev.com/ghpvc/?username=jeeva-network&label=Profile%20views&color=0e75b6&style=flat" alt="jeeva-network" /></a> </p>
 
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"></a> -->
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jeeva-network" alt="profile-trophy" /> </p><br><br>
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jeeva-network" alt="profile-trophy" /></a> </p><br><br>
 
 <h2 class="heading-element" dir="auto">👨‍💻 Skills</h2>
 <!-- Python -->
@@ -52,7 +52,7 @@ team success.</p>
 <a href="#"><img alt="Git" src="https://camo.githubusercontent.com/0f8c911518d16c2430daeb2310bc7ed83e287092e34882ee65adbaef3e16d0a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git-F05033.svg?logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva-network&show_icons=true&locale=en&layout=compact" alt="top-languages" /> </p><br><br>
+<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeeva-network&show_icons=true&locale=en&layout=compact" alt="top-languages" /></a> </p><br><br>
 
 <h2>📕 My top Projects</h2>
 <p align="left" dir=auto>
@@ -67,8 +67,8 @@ team success.</p>
 <h2>📊 Stats and Activity</h2>
 
 <p align="left" dir="auto">
-<a><img src="https://github-readme-stats.vercel.app/api?username=jeeva-network&show_icons=true&locale=en" alt="stats" width=400px/></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vert-three.vercel.app?user=jeeva-network" alt="GitHub Streak" width=420px /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=jeeva-network&show_icons=true&locale=en" alt="stats" width=400px/></a>
+<a href="#"><img src="https://github-readme-streak-stats-vert-three.vercel.app?user=jeeva-network" alt="GitHub Streak" width=420px /></a>
 </p>
 
 
