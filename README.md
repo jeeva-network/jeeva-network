@@ -67,7 +67,8 @@ team success.</p>
 <h2>📊 Stats and Activity</h2>
 
 <p align="left" dir="auto">
-<a><img src="https://github-readme-stats.vercel.app/api?username=jeeva-network&show_icons=true&locale=en" alt="stats" width=420px/></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vert-three.vercel.app?user=jeeva-network" alt="GitHub Streak" width=450px /></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=jeeva-network&show_icons=true&locale=en" alt="stats" height=175px width=400px/></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vert-three.vercel.app?user=jeeva-network" alt="GitHub Streak" height=175px width=450px /></a> -->
 </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vert-three.vercel.app?user=jeeva-network" alt="GitHub Streak" height=175px width=450px /></a>
 
