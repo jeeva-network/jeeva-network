@@ -45,7 +45,9 @@ team success.</p>
 <!-- React js -->
 <a href="#"> <img alt="React" src="https://camo.githubusercontent.com/0554678f6499c9c75037174080bced94cea7532f4bcac00fe8e24763b3165bb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332612e7376673f6c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" data-canonical-src="https://img.shields.io/badge/React-20232a.svg?logo=react&amp;logoColor=%2361DAFB" style="max-width: 100%;"> </a> 
 <!-- Next js -->
-<a href="#"><img src="https://camo.githubusercontent.com/535f62a0dc9f470ed8b30275081be217e958a74fbe01b5acace171be399dec5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742e6a732d3035313232413f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73" alt="Next.js" data-canonical-src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&amp;logo=next.js" style="max-width: 100%;"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" data-canonical-src="https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&amp;logo=next.js" style="max-width: 100%;"></a>
+<!-- Tailwind css -->
+<a href="#"><img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" /> </a>
 <!-- linux -->
 <!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> -->
 <!-- Git -->
